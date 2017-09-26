@@ -1,6 +1,6 @@
 #
-#
-#
+# illustrating the creation of simple blocks and appending them to blockchain
+# author : Mayank Mishra
 #
 
 # importing basic requisites
